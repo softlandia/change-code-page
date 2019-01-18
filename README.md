@@ -8,9 +8,9 @@ programm automatically detected code page of input files
 (c) softlandia@gmail.com
 
 dependences: 
-	"github.com/softlandia/xLib"
-	"golang.org/x/text/encoding/charmap"
-	"golang.org/x/text/transform"
+>"github.com/softlandia/xLib"
+>"golang.org/x/text/encoding/charmap"
+>"golang.org/x/text/transform"
 
 using  
 >cpc 866 1251 .las
