@@ -14,7 +14,8 @@ dependences:
 
 using  
 >cpc 866 1251 .las
-all files with extention "las" founded in current folder and all subfolders will be converted from IBM CodePage 866 to Windows 1251 code page
+
+all files with extention "las" founded in current folder and all subfolders will be converted from IBM CodePage 866 to Windows 1251 code page  
 if file already in 1251 code page then nothing is done 
  
 
