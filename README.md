@@ -32,5 +32,5 @@ history
 *init commit*
 
 0.0.2  
-*can convert one file*  
+*single file mode*  
 *optimization*  
