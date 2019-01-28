@@ -31,6 +31,6 @@ history
 0.0.1  
 *init commit*
 
-0.0.2
+0.0.2  
 *can convert one file*  
 *optimization*  
